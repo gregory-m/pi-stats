@@ -1,0 +1,8 @@
+display
+*.o
+debhelper-build-stamp
+.debhelper
+debian/pi-stats/*
+debian/files
+debian/*.debhelper
+debian/*.substvars
