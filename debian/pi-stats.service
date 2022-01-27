@@ -4,7 +4,7 @@ After=network.target
 
 [Service]
 Type=idle
-ExecStart=/usr/bin/display
+ExecStart=/usr/bin/pi-stats
 
 [Install]
 WantedBy=multi-user.target

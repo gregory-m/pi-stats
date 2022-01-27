@@ -1,4 +1,4 @@
-display
+pi-stats
 *.o
 debhelper-build-stamp
 .debhelper

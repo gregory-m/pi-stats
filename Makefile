@@ -1,4 +1,4 @@
-Target  = display
+Target  = pi-stats
 CFLAGS  = -Wall
 CXX	    = gcc
 LIBS    = 
